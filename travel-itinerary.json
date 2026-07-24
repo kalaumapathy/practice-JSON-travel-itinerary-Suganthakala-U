@@ -1,0 +1,42 @@
+{
+  "tripName": "Summer Europe Vacation",
+  "traveler": {
+    "name": "Suganthakala Umapathy",
+    "contact": {
+      "email": "suganthakala@example.com",
+      "phone": "913-555-1234"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-07-15",
+      "departureDate": "2026-07-19",
+      "activities": [
+        {
+          "title": "Visit the Eiffel Tower",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Seine River Cruise",
+          "time": "6:30 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2026-07-20",
+      "departureDate": "2026-07-24",
+      "activities": [
+        {
+          "title": "Tour the Colosseum",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Visit the Vatican Museums",
+          "time": "2:00 PM"
+        }
+      ]
+    }
+  ]
+}
