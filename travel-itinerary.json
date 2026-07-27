@@ -23,6 +23,26 @@
         }
       ]
     },
+
+    {
+  "location": "Tokyo",
+  "arrivalDate": "2026-07-25",
+  "departureDate": "2026-07-29",
+  "activities": [
+    {
+      "title": "Visit Tokyo Tower",
+      "time": "11:00 AM"
+    },
+    {
+      "title": "Explore Shibuya Crossing",
+      "time": "5:00 PM"
+    }
+  ],
+  "transportation": {
+    "mode": "Flight",
+    "cost": 850.00
+  }
+}
     {
       "location": "Rome",
       "arrivalDate": "2026-07-20",
